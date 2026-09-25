@@ -1,0 +1,36 @@
+SESC COMUNIDADE - ARAGUAINA
+RELATORIO DA VERSAO ATUALIZADA - 25/09/2026
+
+Origem: nova exportacao do 3DVista com hotspots atualizados.
+Integracao: skin aprovada em pasta isolada skin-fecomercio.
+
+Conferencias estruturais:
+- 1.296 arquivos nativos preservados na nova exportacao.
+- 1.295 arquivos nativos, excluindo somente index.htm, comparados por SHA-256.
+- 0 divergencias entre o backup da nova exportacao e a versao integrada.
+- index.htm alterado apenas para metadados, responsividade e carregamento da skin.
+- index.html criado como copia identica para abertura pela raiz no GitHub Pages.
+- 26 panoramas atuais reconhecidos pela skin.
+- 5 grupos de ambientes.
+- 0 IDs de panorama ausentes.
+- 0 miniaturas ausentes.
+- 0 destinos de grupo invalidos.
+- 292 referencias Hotspot no script_general.js atualizado (282 na exportacao anterior).
+
+Testes concluidos antes da publicacao:
+- carregamento HTTP local confirmado;
+- consentimento de audio nativo do 3DVista confirmado;
+- abertura da introducao e da navegacao confirmada;
+- mapa em janela modal com endereco da unidade confirmado;
+- navegacao pela skin entre ambientes confirmada;
+- novos hotspots mantidos no script nativo do 3DVista;
+- desktop sem rolagem indevida;
+- iPhone Pro Max 430 x 932 sem rolagem ou corte, botoes de 101 x 58 px;
+- Android compacto 360 x 640 sem rolagem ou corte, botoes de 84 x 56 px;
+- tablet 768 x 1024 sem rolagem ou corte;
+- celular horizontal 740 x 390 sem rolagem ou corte;
+- Safari/iOS atendido com unidades svh/dvh e areas seguras;
+- console sem erros ou avisos durante a validacao.
+
+Observacao:
+Os arquivos script.js, script_general.js, locale, audio e toda a pasta media permanecem nativos da nova exportacao. A skin nao substitui nem reescreve esses elementos.

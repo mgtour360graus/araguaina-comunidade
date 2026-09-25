@@ -1,0 +1,41 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_C94D8FF7_D86A_2A3D_418B_45A1873ABEFD.url = media/audio_C98BA0C5_D87E_165D_41E0_1F8710575A88_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_B39AA51E_9FDA_7F00_41C5_A9970F641D67.label = 2° Entrada Quadra
+panorama_B3993507_9FDA_1F01_41CF_BE98FAB8669D.label = Acesso a Quadra
+panorama_B39E2883_9FDE_F500_41B3_6DAACF17F74F.label = Cozinha
+panorama_B39974E9_9FDA_1D01_41C9_BCAAD9B61B75.label = Entrada
+panorama_B39EB5AB_9FDE_1F01_41DD_3B8573247B6C.label = Entrada Cozinha
+panorama_B39DAEFA_9FDE_2D00_41D2_C2B336FB3FE4.label = Entrada quadra
+panorama_B39A91F0_9FD9_F700_41D5_D723A7F4D115.label = IMG_20260714_095030_00_656(1)
+panorama_B39E2AA5_9FDE_1501_41E0_83B428E88887.label = IMG_20260714_095842_00_663(1)
+panorama_B39E7E88_9FDE_6D0F_41A5_4D088D8F8C9F.label = Parque - Balanços
+panorama_B399E12B_9FDE_1701_41C6_4D7FBA462E99.label = Parque - Balanços
+panorama_B39D511C_9FDE_1707_41D9_F9A365B0E785.label = Pátio
+panorama_B39AC4BE_9FDA_1D03_41B0_DFAC3D238DDD.label = Quadra
+panorama_B39B23AB_9FDA_3B01_41C8_ABE80D1A0B68.label = Quadra
+panorama_B39AE2C6_9FDA_1500_41C3_6D3D335FD32E.label = Quadra
+panorama_D61E4877_D866_F63D_41EA_45586F0A3989.label = Quadra Vista Aérea
+panorama_B39E7133_9FDE_1700_41D5_4D9325E47D6C.label = Refeitório
+panorama_B39E1345_9FDE_3B01_41E3_60576571CD33.label = Refeitório
+panorama_B39FB99B_9FDE_7700_41D1_4475E637CE73.label = Sala 1
+panorama_B39D8E47_9FDE_2D01_41C2_E1B296B01CD1.label = Sala 1
+panorama_B39E6CF9_9FDE_2D01_41D5_5362F769F849.label = Sala 2
+panorama_B39DBEC8_9FDE_2D0F_41C4_6E1554DCB0E7.label = Sala 2
+panorama_D61E9368_D866_1A53_41DD_D15438C3EE54.label = Vista Aérea
+panorama_D61ECA53_D866_2A75_4186_6AAA6B907FC1.label = Vista Aérea Entrada 2
+panorama_D61E0F84_D866_2AD3_41CE_75BB512B8DD2.label = Vista aérea Entrada 1
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Araguaína_Sesc Comunidade
