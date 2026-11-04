@@ -1,0 +1,38 @@
+SESC COMUNIDADE - ARAGUAÍNA
+VALIDAÇÃO DA PUBLICAÇÃO 2026-11-04
+
+Projeto nativo ajustado:
+Sesc Comunidade-AJUSTES-20261104.vtp
+
+Pacote nativo limpo:
+PUBLICACAO-LIMPA-NATIVA-20261104
+
+Versão da configuração externa:
+4.3.6-sesc-comunidade-native-safe-r1
+
+Escopo aplicado:
+- 26 panoramas preservados e renomeados no projeto nativo.
+- Nome da unidade corrigido para Sesc Comunidade - Araguaína.
+- Nomenclatura Quadra Poliesportiva aplicada em todos os ambientes pertinentes.
+- Categorias padronizadas: Geral, Entrada, Esporte, Educação e Alimentação.
+- Vista aérea ampla mantida como ambiente inicial.
+- Separadores visíveis normalizados para hífen.
+- Skin externa reintegrada somente no index.htm/index.html.
+- Regra mobile: barra de categorias oculta durante o arraste e reaparece após 420 ms.
+- Toques nos controles não ocultam a barra; desktop permanece inalterado.
+
+Integridade do núcleo 3DVista:
+- script.js: 165E483370845EE2BB10E6D803293E6287E01A38161FB35106CAB0C6D2C1E84F
+- script_general.js: 5699BFA57EE2C3A74608611BE133DBE0F2ABEB542252F2D9B3865DFE94438A01
+- lib/tdvplayer.js: 4E4409FAB2A2B46768CEEECE260E3FD28F00C301BA9395EF954F95434994F899
+- watermark no projeto nativo: false
+
+Validação local:
+- 26 cenas e 26 miniaturas válidas.
+- Nenhum índice duplicado.
+- Ausência de elementos visíveis Academic, Academy, Created by ou 3DVista após mais de 10 segundos.
+- Mobile 420 x 880: barra com opacity 0 e pointer-events none durante movimento; retorno a opacity 1 e pointer-events auto após 650 ms de observação.
+- Desktop 1280 x 720: barra visível e comportamento inalterado.
+
+URL pública:
+https://mgtour360graus.github.io/araguaina-comunidade/
